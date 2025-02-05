@@ -1,0 +1,6 @@
+# Ignore Windows-specific files and directories
+AppData/
+Application Data/
+Cookies/
+Local Settings/
+Temporary Internet Files/
